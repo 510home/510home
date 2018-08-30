@@ -1,0 +1,369 @@
+{
+    "accessors" : [
+        {
+            "bufferView" : 0, 
+            "componentType" : 5123, 
+            "count" : 8022, 
+            "max" : [
+                2153
+            ], 
+            "min" : [
+                0
+            ], 
+            "type" : "SCALAR"
+        }, 
+        {
+            "bufferView" : 1, 
+            "componentType" : 5126, 
+            "count" : 2154, 
+            "max" : [
+                22.45305824279785, 
+                3.71146821975708, 
+                -0.02866823598742485
+            ], 
+            "min" : [
+                -15.060551643371582, 
+                -4.105926036834717, 
+                -53.327545166015625
+            ], 
+            "type" : "VEC3"
+        }, 
+        {
+            "bufferView" : 2, 
+            "componentType" : 5126, 
+            "count" : 2154, 
+            "max" : [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            "min" : [
+                -1.0, 
+                -1.0, 
+                -1.0
+            ], 
+            "type" : "VEC3"
+        }, 
+        {
+            "bufferView" : 3, 
+            "componentType" : 5126, 
+            "count" : 2154, 
+            "max" : [
+                0.98848557472229, 
+                0.9998819231987, 
+                0.9995236992835999, 
+                1.0
+            ], 
+            "min" : [
+                -0.9979027509689331, 
+                -0.9999961256980896, 
+                -0.9997368454933167, 
+                -1.0
+            ], 
+            "type" : "VEC4"
+        }, 
+        {
+            "bufferView" : 4, 
+            "componentType" : 5126, 
+            "count" : 2154, 
+            "max" : [
+                1.4893041849136353, 
+                0.4566175937652588
+            ], 
+            "min" : [
+                8.218397852033377e-05, 
+                0.003550589084625244
+            ], 
+            "type" : "VEC2"
+        }, 
+        {
+            "bufferView" : 5, 
+            "componentType" : 5126, 
+            "count" : 2154, 
+            "max" : [
+                1.4893041849136353, 
+                0.4566175937652588
+            ], 
+            "min" : [
+                8.218397852033377e-05, 
+                0.003550589084625244
+            ], 
+            "type" : "VEC2"
+        }, 
+        {
+            "bufferView" : 6, 
+            "componentType" : 5126, 
+            "count" : 2154, 
+            "max" : [
+                1.4893041849136353, 
+                0.4566175937652588
+            ], 
+            "min" : [
+                8.218397852033377e-05, 
+                0.003550589084625244
+            ], 
+            "type" : "VEC2"
+        }, 
+        {
+            "bufferView" : 7, 
+            "componentType" : 5126, 
+            "count" : 2154, 
+            "max" : [
+                1.4893041849136353, 
+                0.4566175937652588
+            ], 
+            "min" : [
+                8.218397852033377e-05, 
+                0.003550589084625244
+            ], 
+            "type" : "VEC2"
+        }, 
+        {
+            "bufferView" : 8, 
+            "componentType" : 5126, 
+            "count" : 2154, 
+            "max" : [
+                1.4893041849136353, 
+                0.4566175937652588
+            ], 
+            "min" : [
+                8.218397852033377e-05, 
+                0.003550589084625244
+            ], 
+            "type" : "VEC2"
+        }, 
+        {
+            "bufferView" : 9, 
+            "componentType" : 5126, 
+            "count" : 2154, 
+            "max" : [
+                1.0, 
+                1.0
+            ], 
+            "min" : [
+                0.0, 
+                0.0
+            ], 
+            "type" : "VEC2"
+        }
+    ], 
+    "asset" : {
+        "generator" : "Khronos Blender glTF 2.0 exporter", 
+        "version" : "2.0"
+    }, 
+    "bufferViews" : [
+        {
+            "buffer" : 0, 
+            "byteLength" : 16044, 
+            "byteOffset" : 0, 
+            "target" : 34963
+        }, 
+        {
+            "buffer" : 0, 
+            "byteLength" : 25848, 
+            "byteOffset" : 16044, 
+            "target" : 34962
+        }, 
+        {
+            "buffer" : 0, 
+            "byteLength" : 25848, 
+            "byteOffset" : 41892, 
+            "target" : 34962
+        }, 
+        {
+            "buffer" : 0, 
+            "byteLength" : 34464, 
+            "byteOffset" : 67740, 
+            "target" : 34962
+        }, 
+        {
+            "buffer" : 0, 
+            "byteLength" : 17232, 
+            "byteOffset" : 102204, 
+            "target" : 34962
+        }, 
+        {
+            "buffer" : 0, 
+            "byteLength" : 17232, 
+            "byteOffset" : 119436, 
+            "target" : 34962
+        }, 
+        {
+            "buffer" : 0, 
+            "byteLength" : 17232, 
+            "byteOffset" : 136668, 
+            "target" : 34962
+        }, 
+        {
+            "buffer" : 0, 
+            "byteLength" : 17232, 
+            "byteOffset" : 153900, 
+            "target" : 34962
+        }, 
+        {
+            "buffer" : 0, 
+            "byteLength" : 17232, 
+            "byteOffset" : 171132, 
+            "target" : 34962
+        }, 
+        {
+            "buffer" : 0, 
+            "byteLength" : 17232, 
+            "byteOffset" : 188364, 
+            "target" : 34962
+        }
+    ], 
+    "buffers" : [
+        {
+            "byteLength" : 205596, 
+            "uri" : "Tahitii_Lamp.bin"
+        }
+    ], 
+    "materials" : [
+        {
+            "name" : "bulb", 
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.48313728098775854, 
+                    0.02196078482211805, 
+                    0.0, 
+                    1.0
+                ], 
+                "metallicFactor" : 0.0
+            }
+        }, 
+        {
+            "name" : "circle", 
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.778039228588927, 
+                    0.6086274714563409, 
+                    0.800000011920929, 
+                    1.0
+                ], 
+                "metallicFactor" : 0.0
+            }
+        }, 
+        {
+            "name" : "curve", 
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.48313728098775854, 
+                    0.26666667858759574, 
+                    0.0, 
+                    1.0
+                ], 
+                "metallicFactor" : 0.0
+            }
+        }, 
+        {
+            "name" : "Mat", 
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.10666667381922412, 
+                    0.4580392428940421, 
+                    0.4266666952768965, 
+                    1.0
+                ], 
+                "metallicFactor" : 0.0
+            }
+        }, 
+        {
+            "name" : "stem", 
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.16000000476837162, 
+                    0.16000000476837162, 
+                    0.1913725523855172, 
+                    1.0
+                ], 
+                "metallicFactor" : 0.0
+            }
+        }, 
+        {
+            "name" : "stem.001", 
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.778039228588927, 
+                    0.6086274714563409, 
+                    0.2635294238258812, 
+                    1.0
+                ], 
+                "metallicFactor" : 0.0
+            }
+        }
+    ], 
+    "meshes" : [
+        {
+            "name" : "Untitled", 
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "NORMAL" : 2, 
+                        "POSITION" : 1, 
+                        "TANGENT" : 3, 
+                        "TEXCOORD_0" : 4, 
+                        "TEXCOORD_1" : 5, 
+                        "TEXCOORD_2" : 6, 
+                        "TEXCOORD_3" : 7, 
+                        "TEXCOORD_4" : 8, 
+                        "TEXCOORD_5" : 9
+                    }, 
+                    "indices" : 0, 
+                    "material" : 0
+                }
+            ]
+        }
+    ], 
+    "nodes" : [
+        {
+            "name" : "CINEMA_4D_Editor", 
+            "rotation" : [
+                0.5335418581962585, 
+                0.31241878867149353, 
+                -0.2210002839565277, 
+                0.7542456388473511
+            ], 
+            "scale" : [
+                0.009999999776482582, 
+                0.009999999776482582, 
+                0.009999999776482582
+            ], 
+            "translation" : [
+                0.0, 
+                0.09822217375040054, 
+                -0.025649335235357285
+            ]
+        }, 
+        {
+            "mesh" : 0, 
+            "name" : "tahiti_lamp", 
+            "rotation" : [
+                0.4999999701976776, 
+                0.5000000596046448, 
+                -0.5000001192092896, 
+                0.49999988079071045
+            ], 
+            "scale" : [
+                0.009999999776482582, 
+                0.009999999776482582, 
+                0.009999999776482582
+            ], 
+            "translation" : [
+                4.305169445102171e-18, 
+                0.0012781296391040087, 
+                -0.07030875235795975
+            ]
+        }
+    ], 
+    "scene" : 0, 
+    "scenes" : [
+        {
+            "name" : "Scene", 
+            "nodes" : [
+                1, 
+                0
+            ]
+        }
+    ]
+}
